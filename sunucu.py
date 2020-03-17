@@ -1,4 +1,4 @@
-kullanici_adlari = ["raif","yuksel","poresonanongrata"]
+kullanici_adlari = ["raif","yuksel","personanongrata"]
 sifreler = ["123"]
 liste = []
 import socket,threading,sys
