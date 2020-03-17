@@ -9,6 +9,6 @@ Kullanılan modüller :
     threading
 
 
-iyi charler efenim;
+iyi chatler efenim;
     
 t.me/pngmerkez için kodlanmıştır 
